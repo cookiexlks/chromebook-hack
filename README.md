@@ -1,2 +1,1 @@
-# chromebook-hack
-One of the Best Chrome hacks.
+<h1 allign="center">Chrome Hacks</h1>
